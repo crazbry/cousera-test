@@ -1,0 +1,29 @@
+/**Title**/
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.navbar#navbarspace {
+  border: solid;
+  border-width: medium;
+  background-color: lightgrey !important;
+}
+
+.title1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+/**Body Content**/
+.col {
+  background-color: lightgrey;
+  padding: 15px 30px;
+  font-weight: bold;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+.text-center {
+  font-size: 20px;
+  font-weight: bold;
+}
